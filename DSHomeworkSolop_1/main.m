@@ -23,5 +23,5 @@ int main(int argc, const char * argv[]) {
         [sortedArrayOfCreature printArray:sortedArrayOfCreature];
     }
     return 0;
-    
+
 }
