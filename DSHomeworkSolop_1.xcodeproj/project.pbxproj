@@ -1,0 +1,342 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		2C0742271E56879F0094D951 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 2C0742261E56879F0094D951 /* main.m */; };
+		2C0742401E5687D90094D951 /* DSAnimal.m in Sources */ = {isa = PBXBuildFile; fileRef = 2C07422E1E5687D90094D951 /* DSAnimal.m */; };
+		2C0742411E5687D90094D951 /* DSBird.m in Sources */ = {isa = PBXBuildFile; fileRef = 2C0742301E5687D90094D951 /* DSBird.m */; };
+		2C0742421E5687D90094D951 /* DSCreature.m in Sources */ = {isa = PBXBuildFile; fileRef = 2C0742321E5687D90094D951 /* DSCreature.m */; };
+		2C0742431E5687D90094D951 /* DSHuman.m in Sources */ = {isa = PBXBuildFile; fileRef = 2C0742341E5687D90094D951 /* DSHuman.m */; };
+		2C0742441E5687D90094D951 /* DSKangaroo.m in Sources */ = {isa = PBXBuildFile; fileRef = 2C0742361E5687D90094D951 /* DSKangaroo.m */; };
+		2C0742451E5687D90094D951 /* DSManagerOfProperty.m in Sources */ = {isa = PBXBuildFile; fileRef = 2C0742381E5687D90094D951 /* DSManagerOfProperty.m */; };
+		2C0742461E5687D90094D951 /* DSRanner.m in Sources */ = {isa = PBXBuildFile; fileRef = 2C07423B1E5687D90094D951 /* DSRanner.m */; };
+		2C0742471E5687D90094D951 /* DSSwimer.m in Sources */ = {isa = PBXBuildFile; fileRef = 2C07423D1E5687D90094D951 /* DSSwimer.m */; };
+		2C0742481E5687D90094D951 /* NSArray+DSExtention.m in Sources */ = {isa = PBXBuildFile; fileRef = 2C07423F1E5687D90094D951 /* NSArray+DSExtention.m */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXCopyFilesBuildPhase section */
+		2C0742211E56879F0094D951 /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+/* End PBXCopyFilesBuildPhase section */
+
+/* Begin PBXFileReference section */
+		2C0742231E56879F0094D951 /* DSHomeworkSolop_1 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = DSHomeworkSolop_1; sourceTree = BUILT_PRODUCTS_DIR; };
+		2C0742261E56879F0094D951 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		2C07422D1E5687D90094D951 /* DSAnimal.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = DSAnimal.h; path = "../../DSHomeworkSolop#1/DSHomeworkSolop#1/DSAnimal.h"; sourceTree = "<group>"; };
+		2C07422E1E5687D90094D951 /* DSAnimal.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = DSAnimal.m; path = "../../DSHomeworkSolop#1/DSHomeworkSolop#1/DSAnimal.m"; sourceTree = "<group>"; };
+		2C07422F1E5687D90094D951 /* DSBird.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = DSBird.h; path = "../../DSHomeworkSolop#1/DSHomeworkSolop#1/DSBird.h"; sourceTree = "<group>"; };
+		2C0742301E5687D90094D951 /* DSBird.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = DSBird.m; path = "../../DSHomeworkSolop#1/DSHomeworkSolop#1/DSBird.m"; sourceTree = "<group>"; };
+		2C0742311E5687D90094D951 /* DSCreature.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = DSCreature.h; path = "../../DSHomeworkSolop#1/DSHomeworkSolop#1/DSCreature.h"; sourceTree = "<group>"; };
+		2C0742321E5687D90094D951 /* DSCreature.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = DSCreature.m; path = "../../DSHomeworkSolop#1/DSHomeworkSolop#1/DSCreature.m"; sourceTree = "<group>"; };
+		2C0742331E5687D90094D951 /* DSHuman.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = DSHuman.h; path = "../../DSHomeworkSolop#1/DSHomeworkSolop#1/DSHuman.h"; sourceTree = "<group>"; };
+		2C0742341E5687D90094D951 /* DSHuman.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = DSHuman.m; path = "../../DSHomeworkSolop#1/DSHomeworkSolop#1/DSHuman.m"; sourceTree = "<group>"; };
+		2C0742351E5687D90094D951 /* DSKangaroo.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = DSKangaroo.h; path = "../../DSHomeworkSolop#1/DSHomeworkSolop#1/DSKangaroo.h"; sourceTree = "<group>"; };
+		2C0742361E5687D90094D951 /* DSKangaroo.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = DSKangaroo.m; path = "../../DSHomeworkSolop#1/DSHomeworkSolop#1/DSKangaroo.m"; sourceTree = "<group>"; };
+		2C0742371E5687D90094D951 /* DSManagerOfProperty.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = DSManagerOfProperty.h; path = "../../DSHomeworkSolop#1/DSHomeworkSolop#1/DSManagerOfProperty.h"; sourceTree = "<group>"; };
+		2C0742381E5687D90094D951 /* DSManagerOfProperty.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = DSManagerOfProperty.m; path = "../../DSHomeworkSolop#1/DSHomeworkSolop#1/DSManagerOfProperty.m"; sourceTree = "<group>"; };
+		2C0742391E5687D90094D951 /* DSProtocolOfFood.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = DSProtocolOfFood.h; path = "../../DSHomeworkSolop#1/DSHomeworkSolop#1/DSProtocolOfFood.h"; sourceTree = "<group>"; };
+		2C07423A1E5687D90094D951 /* DSRanner.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = DSRanner.h; path = "../../DSHomeworkSolop#1/DSHomeworkSolop#1/DSRanner.h"; sourceTree = "<group>"; };
+		2C07423B1E5687D90094D951 /* DSRanner.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = DSRanner.m; path = "../../DSHomeworkSolop#1/DSHomeworkSolop#1/DSRanner.m"; sourceTree = "<group>"; };
+		2C07423C1E5687D90094D951 /* DSSwimer.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = DSSwimer.h; path = "../../DSHomeworkSolop#1/DSHomeworkSolop#1/DSSwimer.h"; sourceTree = "<group>"; };
+		2C07423D1E5687D90094D951 /* DSSwimer.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = DSSwimer.m; path = "../../DSHomeworkSolop#1/DSHomeworkSolop#1/DSSwimer.m"; sourceTree = "<group>"; };
+		2C07423E1E5687D90094D951 /* NSArray+DSExtention.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = "NSArray+DSExtention.h"; path = "../../DSHomeworkSolop#1/DSHomeworkSolop#1/NSArray+DSExtention.h"; sourceTree = "<group>"; };
+		2C07423F1E5687D90094D951 /* NSArray+DSExtention.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = "NSArray+DSExtention.m"; path = "../../DSHomeworkSolop#1/DSHomeworkSolop#1/NSArray+DSExtention.m"; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		2C0742201E56879F0094D951 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		2C07421A1E56879F0094D951 = {
+			isa = PBXGroup;
+			children = (
+				2C0742251E56879F0094D951 /* DSHomeworkSolop_1 */,
+				2C0742241E56879F0094D951 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		2C0742241E56879F0094D951 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				2C0742231E56879F0094D951 /* DSHomeworkSolop_1 */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		2C0742251E56879F0094D951 /* DSHomeworkSolop_1 */ = {
+			isa = PBXGroup;
+			children = (
+				2C0742261E56879F0094D951 /* main.m */,
+				2C0742311E5687D90094D951 /* DSCreature.h */,
+				2C0742321E5687D90094D951 /* DSCreature.m */,
+				2C0742371E5687D90094D951 /* DSManagerOfProperty.h */,
+				2C0742381E5687D90094D951 /* DSManagerOfProperty.m */,
+				2C07424C1E5689550094D951 /* Categories */,
+				2C07424B1E5689370094D951 /* Protocols */,
+				2C07424A1E5689030094D951 /* Humans */,
+				2C0742491E5688D60094D951 /* Animals */,
+			);
+			path = DSHomeworkSolop_1;
+			sourceTree = "<group>";
+		};
+		2C0742491E5688D60094D951 /* Animals */ = {
+			isa = PBXGroup;
+			children = (
+				2C07422D1E5687D90094D951 /* DSAnimal.h */,
+				2C07422E1E5687D90094D951 /* DSAnimal.m */,
+				2C07422F1E5687D90094D951 /* DSBird.h */,
+				2C0742301E5687D90094D951 /* DSBird.m */,
+				2C0742351E5687D90094D951 /* DSKangaroo.h */,
+				2C0742361E5687D90094D951 /* DSKangaroo.m */,
+			);
+			name = Animals;
+			sourceTree = "<group>";
+		};
+		2C07424A1E5689030094D951 /* Humans */ = {
+			isa = PBXGroup;
+			children = (
+				2C0742331E5687D90094D951 /* DSHuman.h */,
+				2C0742341E5687D90094D951 /* DSHuman.m */,
+				2C07423A1E5687D90094D951 /* DSRanner.h */,
+				2C07423B1E5687D90094D951 /* DSRanner.m */,
+				2C07423C1E5687D90094D951 /* DSSwimer.h */,
+				2C07423D1E5687D90094D951 /* DSSwimer.m */,
+			);
+			name = Humans;
+			sourceTree = "<group>";
+		};
+		2C07424B1E5689370094D951 /* Protocols */ = {
+			isa = PBXGroup;
+			children = (
+				2C0742391E5687D90094D951 /* DSProtocolOfFood.h */,
+			);
+			name = Protocols;
+			sourceTree = "<group>";
+		};
+		2C07424C1E5689550094D951 /* Categories */ = {
+			isa = PBXGroup;
+			children = (
+				2C07423E1E5687D90094D951 /* NSArray+DSExtention.h */,
+				2C07423F1E5687D90094D951 /* NSArray+DSExtention.m */,
+			);
+			name = Categories;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		2C0742221E56879F0094D951 /* DSHomeworkSolop_1 */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 2C07422A1E56879F0094D951 /* Build configuration list for PBXNativeTarget "DSHomeworkSolop_1" */;
+			buildPhases = (
+				2C07421F1E56879F0094D951 /* Sources */,
+				2C0742201E56879F0094D951 /* Frameworks */,
+				2C0742211E56879F0094D951 /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = DSHomeworkSolop_1;
+			productName = DSHomeworkSolop_1;
+			productReference = 2C0742231E56879F0094D951 /* DSHomeworkSolop_1 */;
+			productType = "com.apple.product-type.tool";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		2C07421B1E56879F0094D951 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				CLASSPREFIX = DS;
+				LastUpgradeCheck = 0810;
+				ORGANIZATIONNAME = "Dimon Solop";
+				TargetAttributes = {
+					2C0742221E56879F0094D951 = {
+						CreatedOnToolsVersion = 8.1;
+						ProvisioningStyle = Automatic;
+					};
+				};
+			};
+			buildConfigurationList = 2C07421E1E56879F0094D951 /* Build configuration list for PBXProject "DSHomeworkSolop_1" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = 2C07421A1E56879F0094D951;
+			productRefGroup = 2C0742241E56879F0094D951 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				2C0742221E56879F0094D951 /* DSHomeworkSolop_1 */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXSourcesBuildPhase section */
+		2C07421F1E56879F0094D951 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				2C0742481E5687D90094D951 /* NSArray+DSExtention.m in Sources */,
+				2C0742401E5687D90094D951 /* DSAnimal.m in Sources */,
+				2C0742451E5687D90094D951 /* DSManagerOfProperty.m in Sources */,
+				2C0742461E5687D90094D951 /* DSRanner.m in Sources */,
+				2C0742431E5687D90094D951 /* DSHuman.m in Sources */,
+				2C0742441E5687D90094D951 /* DSKangaroo.m in Sources */,
+				2C0742421E5687D90094D951 /* DSCreature.m in Sources */,
+				2C0742471E5687D90094D951 /* DSSwimer.m in Sources */,
+				2C0742411E5687D90094D951 /* DSBird.m in Sources */,
+				2C0742271E56879F0094D951 /* main.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		2C0742281E56879F0094D951 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_SUSPICIOUS_MOVES = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_IDENTITY = "-";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 10.12;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = macosx;
+			};
+			name = Debug;
+		};
+		2C0742291E56879F0094D951 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_SUSPICIOUS_MOVES = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_IDENTITY = "-";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 10.12;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = macosx;
+			};
+			name = Release;
+		};
+		2C07422B1E56879F0094D951 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		2C07422C1E56879F0094D951 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		2C07421E1E56879F0094D951 /* Build configuration list for PBXProject "DSHomeworkSolop_1" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				2C0742281E56879F0094D951 /* Debug */,
+				2C0742291E56879F0094D951 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		2C07422A1E56879F0094D951 /* Build configuration list for PBXNativeTarget "DSHomeworkSolop_1" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				2C07422B1E56879F0094D951 /* Debug */,
+				2C07422C1E56879F0094D951 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 2C07421B1E56879F0094D951 /* Project object */;
+}
