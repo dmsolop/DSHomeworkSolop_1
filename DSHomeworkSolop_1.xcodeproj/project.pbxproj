@@ -8,15 +8,15 @@
 
 /* Begin PBXBuildFile section */
 		2C0742271E56879F0094D951 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 2C0742261E56879F0094D951 /* main.m */; };
-		2C0742401E5687D90094D951 /* DSAnimal.m in Sources */ = {isa = PBXBuildFile; fileRef = 2C07422E1E5687D90094D951 /* DSAnimal.m */; };
-		2C0742411E5687D90094D951 /* DSBird.m in Sources */ = {isa = PBXBuildFile; fileRef = 2C0742301E5687D90094D951 /* DSBird.m */; };
-		2C0742421E5687D90094D951 /* DSCreature.m in Sources */ = {isa = PBXBuildFile; fileRef = 2C0742321E5687D90094D951 /* DSCreature.m */; };
-		2C0742431E5687D90094D951 /* DSHuman.m in Sources */ = {isa = PBXBuildFile; fileRef = 2C0742341E5687D90094D951 /* DSHuman.m */; };
-		2C0742441E5687D90094D951 /* DSKangaroo.m in Sources */ = {isa = PBXBuildFile; fileRef = 2C0742361E5687D90094D951 /* DSKangaroo.m */; };
-		2C0742451E5687D90094D951 /* DSManagerOfProperty.m in Sources */ = {isa = PBXBuildFile; fileRef = 2C0742381E5687D90094D951 /* DSManagerOfProperty.m */; };
-		2C0742461E5687D90094D951 /* DSRanner.m in Sources */ = {isa = PBXBuildFile; fileRef = 2C07423B1E5687D90094D951 /* DSRanner.m */; };
-		2C0742471E5687D90094D951 /* DSSwimer.m in Sources */ = {isa = PBXBuildFile; fileRef = 2C07423D1E5687D90094D951 /* DSSwimer.m */; };
-		2C0742481E5687D90094D951 /* NSArray+DSExtention.m in Sources */ = {isa = PBXBuildFile; fileRef = 2C07423F1E5687D90094D951 /* NSArray+DSExtention.m */; };
+		2C0742511E5695B30094D951 /* DSCreature.m in Sources */ = {isa = PBXBuildFile; fileRef = 2C07424E1E5695B30094D951 /* DSCreature.m */; };
+		2C0742521E5695B30094D951 /* DSManagerOfProperty.m in Sources */ = {isa = PBXBuildFile; fileRef = 2C0742501E5695B30094D951 /* DSManagerOfProperty.m */; };
+		2C0742551E5695E10094D951 /* NSArray+DSExtention.m in Sources */ = {isa = PBXBuildFile; fileRef = 2C0742541E5695E10094D951 /* NSArray+DSExtention.m */; };
+		2C07425D1E5695FD0094D951 /* DSHuman.m in Sources */ = {isa = PBXBuildFile; fileRef = 2C0742581E5695FD0094D951 /* DSHuman.m */; };
+		2C07425E1E5695FD0094D951 /* DSRanner.m in Sources */ = {isa = PBXBuildFile; fileRef = 2C07425A1E5695FD0094D951 /* DSRanner.m */; };
+		2C07425F1E5695FD0094D951 /* DSSwimer.m in Sources */ = {isa = PBXBuildFile; fileRef = 2C07425C1E5695FD0094D951 /* DSSwimer.m */; };
+		2C0742661E56960F0094D951 /* DSAnimal.m in Sources */ = {isa = PBXBuildFile; fileRef = 2C0742611E56960F0094D951 /* DSAnimal.m */; };
+		2C0742671E56960F0094D951 /* DSBird.m in Sources */ = {isa = PBXBuildFile; fileRef = 2C0742631E56960F0094D951 /* DSBird.m */; };
+		2C0742681E56960F0094D951 /* DSKangaroo.m in Sources */ = {isa = PBXBuildFile; fileRef = 2C0742651E56960F0094D951 /* DSKangaroo.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -34,25 +34,25 @@
 /* Begin PBXFileReference section */
 		2C0742231E56879F0094D951 /* DSHomeworkSolop_1 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = DSHomeworkSolop_1; sourceTree = BUILT_PRODUCTS_DIR; };
 		2C0742261E56879F0094D951 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		2C07422D1E5687D90094D951 /* DSAnimal.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = DSAnimal.h; path = "../../DSHomeworkSolop#1/DSHomeworkSolop#1/DSAnimal.h"; sourceTree = "<group>"; };
-		2C07422E1E5687D90094D951 /* DSAnimal.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = DSAnimal.m; path = "../../DSHomeworkSolop#1/DSHomeworkSolop#1/DSAnimal.m"; sourceTree = "<group>"; };
-		2C07422F1E5687D90094D951 /* DSBird.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = DSBird.h; path = "../../DSHomeworkSolop#1/DSHomeworkSolop#1/DSBird.h"; sourceTree = "<group>"; };
-		2C0742301E5687D90094D951 /* DSBird.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = DSBird.m; path = "../../DSHomeworkSolop#1/DSHomeworkSolop#1/DSBird.m"; sourceTree = "<group>"; };
-		2C0742311E5687D90094D951 /* DSCreature.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = DSCreature.h; path = "../../DSHomeworkSolop#1/DSHomeworkSolop#1/DSCreature.h"; sourceTree = "<group>"; };
-		2C0742321E5687D90094D951 /* DSCreature.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = DSCreature.m; path = "../../DSHomeworkSolop#1/DSHomeworkSolop#1/DSCreature.m"; sourceTree = "<group>"; };
-		2C0742331E5687D90094D951 /* DSHuman.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = DSHuman.h; path = "../../DSHomeworkSolop#1/DSHomeworkSolop#1/DSHuman.h"; sourceTree = "<group>"; };
-		2C0742341E5687D90094D951 /* DSHuman.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = DSHuman.m; path = "../../DSHomeworkSolop#1/DSHomeworkSolop#1/DSHuman.m"; sourceTree = "<group>"; };
-		2C0742351E5687D90094D951 /* DSKangaroo.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = DSKangaroo.h; path = "../../DSHomeworkSolop#1/DSHomeworkSolop#1/DSKangaroo.h"; sourceTree = "<group>"; };
-		2C0742361E5687D90094D951 /* DSKangaroo.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = DSKangaroo.m; path = "../../DSHomeworkSolop#1/DSHomeworkSolop#1/DSKangaroo.m"; sourceTree = "<group>"; };
-		2C0742371E5687D90094D951 /* DSManagerOfProperty.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = DSManagerOfProperty.h; path = "../../DSHomeworkSolop#1/DSHomeworkSolop#1/DSManagerOfProperty.h"; sourceTree = "<group>"; };
-		2C0742381E5687D90094D951 /* DSManagerOfProperty.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = DSManagerOfProperty.m; path = "../../DSHomeworkSolop#1/DSHomeworkSolop#1/DSManagerOfProperty.m"; sourceTree = "<group>"; };
-		2C0742391E5687D90094D951 /* DSProtocolOfFood.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = DSProtocolOfFood.h; path = "../../DSHomeworkSolop#1/DSHomeworkSolop#1/DSProtocolOfFood.h"; sourceTree = "<group>"; };
-		2C07423A1E5687D90094D951 /* DSRanner.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = DSRanner.h; path = "../../DSHomeworkSolop#1/DSHomeworkSolop#1/DSRanner.h"; sourceTree = "<group>"; };
-		2C07423B1E5687D90094D951 /* DSRanner.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = DSRanner.m; path = "../../DSHomeworkSolop#1/DSHomeworkSolop#1/DSRanner.m"; sourceTree = "<group>"; };
-		2C07423C1E5687D90094D951 /* DSSwimer.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = DSSwimer.h; path = "../../DSHomeworkSolop#1/DSHomeworkSolop#1/DSSwimer.h"; sourceTree = "<group>"; };
-		2C07423D1E5687D90094D951 /* DSSwimer.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = DSSwimer.m; path = "../../DSHomeworkSolop#1/DSHomeworkSolop#1/DSSwimer.m"; sourceTree = "<group>"; };
-		2C07423E1E5687D90094D951 /* NSArray+DSExtention.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = "NSArray+DSExtention.h"; path = "../../DSHomeworkSolop#1/DSHomeworkSolop#1/NSArray+DSExtention.h"; sourceTree = "<group>"; };
-		2C07423F1E5687D90094D951 /* NSArray+DSExtention.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = "NSArray+DSExtention.m"; path = "../../DSHomeworkSolop#1/DSHomeworkSolop#1/NSArray+DSExtention.m"; sourceTree = "<group>"; };
+		2C07424D1E5695B30094D951 /* DSCreature.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DSCreature.h; sourceTree = "<group>"; };
+		2C07424E1E5695B30094D951 /* DSCreature.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DSCreature.m; sourceTree = "<group>"; };
+		2C07424F1E5695B30094D951 /* DSManagerOfProperty.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DSManagerOfProperty.h; sourceTree = "<group>"; };
+		2C0742501E5695B30094D951 /* DSManagerOfProperty.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DSManagerOfProperty.m; sourceTree = "<group>"; };
+		2C0742531E5695E10094D951 /* NSArray+DSExtention.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSArray+DSExtention.h"; sourceTree = "<group>"; };
+		2C0742541E5695E10094D951 /* NSArray+DSExtention.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSArray+DSExtention.m"; sourceTree = "<group>"; };
+		2C0742561E5695EB0094D951 /* DSProtocolOfFood.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DSProtocolOfFood.h; sourceTree = "<group>"; };
+		2C0742571E5695FD0094D951 /* DSHuman.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DSHuman.h; sourceTree = "<group>"; };
+		2C0742581E5695FD0094D951 /* DSHuman.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DSHuman.m; sourceTree = "<group>"; };
+		2C0742591E5695FD0094D951 /* DSRanner.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DSRanner.h; sourceTree = "<group>"; };
+		2C07425A1E5695FD0094D951 /* DSRanner.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DSRanner.m; sourceTree = "<group>"; };
+		2C07425B1E5695FD0094D951 /* DSSwimer.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DSSwimer.h; sourceTree = "<group>"; };
+		2C07425C1E5695FD0094D951 /* DSSwimer.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DSSwimer.m; sourceTree = "<group>"; };
+		2C0742601E56960F0094D951 /* DSAnimal.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DSAnimal.h; sourceTree = "<group>"; };
+		2C0742611E56960F0094D951 /* DSAnimal.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DSAnimal.m; sourceTree = "<group>"; };
+		2C0742621E56960F0094D951 /* DSBird.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DSBird.h; sourceTree = "<group>"; };
+		2C0742631E56960F0094D951 /* DSBird.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DSBird.m; sourceTree = "<group>"; };
+		2C0742641E56960F0094D951 /* DSKangaroo.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DSKangaroo.h; sourceTree = "<group>"; };
+		2C0742651E56960F0094D951 /* DSKangaroo.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DSKangaroo.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -85,11 +85,11 @@
 		2C0742251E56879F0094D951 /* DSHomeworkSolop_1 */ = {
 			isa = PBXGroup;
 			children = (
+				2C07424D1E5695B30094D951 /* DSCreature.h */,
+				2C07424E1E5695B30094D951 /* DSCreature.m */,
+				2C07424F1E5695B30094D951 /* DSManagerOfProperty.h */,
+				2C0742501E5695B30094D951 /* DSManagerOfProperty.m */,
 				2C0742261E56879F0094D951 /* main.m */,
-				2C0742311E5687D90094D951 /* DSCreature.h */,
-				2C0742321E5687D90094D951 /* DSCreature.m */,
-				2C0742371E5687D90094D951 /* DSManagerOfProperty.h */,
-				2C0742381E5687D90094D951 /* DSManagerOfProperty.m */,
 				2C07424C1E5689550094D951 /* Categories */,
 				2C07424B1E5689370094D951 /* Protocols */,
 				2C07424A1E5689030094D951 /* Humans */,
@@ -101,12 +101,12 @@
 		2C0742491E5688D60094D951 /* Animals */ = {
 			isa = PBXGroup;
 			children = (
-				2C07422D1E5687D90094D951 /* DSAnimal.h */,
-				2C07422E1E5687D90094D951 /* DSAnimal.m */,
-				2C07422F1E5687D90094D951 /* DSBird.h */,
-				2C0742301E5687D90094D951 /* DSBird.m */,
-				2C0742351E5687D90094D951 /* DSKangaroo.h */,
-				2C0742361E5687D90094D951 /* DSKangaroo.m */,
+				2C0742601E56960F0094D951 /* DSAnimal.h */,
+				2C0742611E56960F0094D951 /* DSAnimal.m */,
+				2C0742621E56960F0094D951 /* DSBird.h */,
+				2C0742631E56960F0094D951 /* DSBird.m */,
+				2C0742641E56960F0094D951 /* DSKangaroo.h */,
+				2C0742651E56960F0094D951 /* DSKangaroo.m */,
 			);
 			name = Animals;
 			sourceTree = "<group>";
@@ -114,12 +114,12 @@
 		2C07424A1E5689030094D951 /* Humans */ = {
 			isa = PBXGroup;
 			children = (
-				2C0742331E5687D90094D951 /* DSHuman.h */,
-				2C0742341E5687D90094D951 /* DSHuman.m */,
-				2C07423A1E5687D90094D951 /* DSRanner.h */,
-				2C07423B1E5687D90094D951 /* DSRanner.m */,
-				2C07423C1E5687D90094D951 /* DSSwimer.h */,
-				2C07423D1E5687D90094D951 /* DSSwimer.m */,
+				2C0742571E5695FD0094D951 /* DSHuman.h */,
+				2C0742581E5695FD0094D951 /* DSHuman.m */,
+				2C0742591E5695FD0094D951 /* DSRanner.h */,
+				2C07425A1E5695FD0094D951 /* DSRanner.m */,
+				2C07425B1E5695FD0094D951 /* DSSwimer.h */,
+				2C07425C1E5695FD0094D951 /* DSSwimer.m */,
 			);
 			name = Humans;
 			sourceTree = "<group>";
@@ -127,7 +127,7 @@
 		2C07424B1E5689370094D951 /* Protocols */ = {
 			isa = PBXGroup;
 			children = (
-				2C0742391E5687D90094D951 /* DSProtocolOfFood.h */,
+				2C0742561E5695EB0094D951 /* DSProtocolOfFood.h */,
 			);
 			name = Protocols;
 			sourceTree = "<group>";
@@ -135,8 +135,8 @@
 		2C07424C1E5689550094D951 /* Categories */ = {
 			isa = PBXGroup;
 			children = (
-				2C07423E1E5687D90094D951 /* NSArray+DSExtention.h */,
-				2C07423F1E5687D90094D951 /* NSArray+DSExtention.m */,
+				2C0742531E5695E10094D951 /* NSArray+DSExtention.h */,
+				2C0742541E5695E10094D951 /* NSArray+DSExtention.m */,
 			);
 			name = Categories;
 			sourceTree = "<group>";
@@ -199,15 +199,15 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				2C0742481E5687D90094D951 /* NSArray+DSExtention.m in Sources */,
-				2C0742401E5687D90094D951 /* DSAnimal.m in Sources */,
-				2C0742451E5687D90094D951 /* DSManagerOfProperty.m in Sources */,
-				2C0742461E5687D90094D951 /* DSRanner.m in Sources */,
-				2C0742431E5687D90094D951 /* DSHuman.m in Sources */,
-				2C0742441E5687D90094D951 /* DSKangaroo.m in Sources */,
-				2C0742421E5687D90094D951 /* DSCreature.m in Sources */,
-				2C0742471E5687D90094D951 /* DSSwimer.m in Sources */,
-				2C0742411E5687D90094D951 /* DSBird.m in Sources */,
+				2C0742551E5695E10094D951 /* NSArray+DSExtention.m in Sources */,
+				2C0742671E56960F0094D951 /* DSBird.m in Sources */,
+				2C07425E1E5695FD0094D951 /* DSRanner.m in Sources */,
+				2C0742521E5695B30094D951 /* DSManagerOfProperty.m in Sources */,
+				2C07425F1E5695FD0094D951 /* DSSwimer.m in Sources */,
+				2C0742511E5695B30094D951 /* DSCreature.m in Sources */,
+				2C0742681E56960F0094D951 /* DSKangaroo.m in Sources */,
+				2C07425D1E5695FD0094D951 /* DSHuman.m in Sources */,
+				2C0742661E56960F0094D951 /* DSAnimal.m in Sources */,
 				2C0742271E56879F0094D951 /* main.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -335,6 +335,7 @@
 				2C07422C1E56879F0094D951 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "1F0DE26B116095DD52D20F303E0E9D4F952A9A87",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "1F273915FE7B2E1EF992640D8DBE467F35A1B5C6" : 9223372036854775807,
+    "1F0DE26B116095DD52D20F303E0E9D4F952A9A87" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "CA2DECB2-9B54-4458-90E4-E79DBF9DF5F5",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "1F273915FE7B2E1EF992640D8DBE467F35A1B5C6" : "DSHomeworkSolop%231\/",
+    "1F0DE26B116095DD52D20F303E0E9D4F952A9A87" : "DSHomeworkSolop_1\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "DSHomeworkSolop_1",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "DSHomeworkSolop_1.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/dmsolop\/DSHomeworkSolop_1",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "1F0DE26B116095DD52D20F303E0E9D4F952A9A87"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/dmsolop\/DSHomeworkSolop_1",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "1F273915FE7B2E1EF992640D8DBE467F35A1B5C6"
+    }
+  ]
+}
