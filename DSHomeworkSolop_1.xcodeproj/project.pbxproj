@@ -9,7 +9,7 @@
 /* Begin PBXBuildFile section */
 		2C0742271E56879F0094D951 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 2C0742261E56879F0094D951 /* main.m */; };
 		2C0742511E5695B30094D951 /* DSCreature.m in Sources */ = {isa = PBXBuildFile; fileRef = 2C07424E1E5695B30094D951 /* DSCreature.m */; };
-		2C0742521E5695B30094D951 /* DSManagerOfProperty.m in Sources */ = {isa = PBXBuildFile; fileRef = 2C0742501E5695B30094D951 /* DSManagerOfProperty.m */; };
+		2C0742521E5695B30094D951 /* DSManagerProperty.m in Sources */ = {isa = PBXBuildFile; fileRef = 2C0742501E5695B30094D951 /* DSManagerProperty.m */; };
 		2C0742551E5695E10094D951 /* NSArray+DSExtention.m in Sources */ = {isa = PBXBuildFile; fileRef = 2C0742541E5695E10094D951 /* NSArray+DSExtention.m */; };
 		2C07425D1E5695FD0094D951 /* DSHuman.m in Sources */ = {isa = PBXBuildFile; fileRef = 2C0742581E5695FD0094D951 /* DSHuman.m */; };
 		2C07425E1E5695FD0094D951 /* DSRanner.m in Sources */ = {isa = PBXBuildFile; fileRef = 2C07425A1E5695FD0094D951 /* DSRanner.m */; };
@@ -36,8 +36,8 @@
 		2C0742261E56879F0094D951 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		2C07424D1E5695B30094D951 /* DSCreature.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DSCreature.h; sourceTree = "<group>"; };
 		2C07424E1E5695B30094D951 /* DSCreature.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DSCreature.m; sourceTree = "<group>"; };
-		2C07424F1E5695B30094D951 /* DSManagerOfProperty.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DSManagerOfProperty.h; sourceTree = "<group>"; };
-		2C0742501E5695B30094D951 /* DSManagerOfProperty.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DSManagerOfProperty.m; sourceTree = "<group>"; };
+		2C07424F1E5695B30094D951 /* DSManagerProperty.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DSManagerProperty.h; sourceTree = "<group>"; };
+		2C0742501E5695B30094D951 /* DSManagerProperty.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DSManagerProperty.m; sourceTree = "<group>"; };
 		2C0742531E5695E10094D951 /* NSArray+DSExtention.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSArray+DSExtention.h"; sourceTree = "<group>"; };
 		2C0742541E5695E10094D951 /* NSArray+DSExtention.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSArray+DSExtention.m"; sourceTree = "<group>"; };
 		2C0742561E5695EB0094D951 /* DSProtocolOfFood.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DSProtocolOfFood.h; sourceTree = "<group>"; };
@@ -87,8 +87,8 @@
 			children = (
 				2C07424D1E5695B30094D951 /* DSCreature.h */,
 				2C07424E1E5695B30094D951 /* DSCreature.m */,
-				2C07424F1E5695B30094D951 /* DSManagerOfProperty.h */,
-				2C0742501E5695B30094D951 /* DSManagerOfProperty.m */,
+				2C07424F1E5695B30094D951 /* DSManagerProperty.h */,
+				2C0742501E5695B30094D951 /* DSManagerProperty.m */,
 				2C0742261E56879F0094D951 /* main.m */,
 				2C07424C1E5689550094D951 /* Categories */,
 				2C07424B1E5689370094D951 /* Protocols */,
@@ -202,7 +202,7 @@
 				2C0742551E5695E10094D951 /* NSArray+DSExtention.m in Sources */,
 				2C0742671E56960F0094D951 /* DSBird.m in Sources */,
 				2C07425E1E5695FD0094D951 /* DSRanner.m in Sources */,
-				2C0742521E5695B30094D951 /* DSManagerOfProperty.m in Sources */,
+				2C0742521E5695B30094D951 /* DSManagerProperty.m in Sources */,
 				2C07425F1E5695FD0094D951 /* DSSwimer.m in Sources */,
 				2C0742511E5695B30094D951 /* DSCreature.m in Sources */,
 				2C0742681E56960F0094D951 /* DSKangaroo.m in Sources */,

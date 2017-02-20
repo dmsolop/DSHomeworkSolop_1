@@ -7,7 +7,7 @@
 //
 
 #import <Foundation/Foundation.h>
-#import "DSManagerOfProperty.h"
+#import "DSManagerProperty.h"
 #import "DSCreature.h"
 #import "DSAnimal.h"
 #import "DSHuman.h"

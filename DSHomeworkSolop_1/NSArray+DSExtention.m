@@ -20,7 +20,7 @@
 }
 
 - (NSArray *)makeArrayOfCreature {
-    DSManagerOfProperty *manager = [DSManagerOfProperty new];
+    DSManagerProperty *manager = [DSManagerProperty new];
     NSMutableArray* arrayTemp = [NSMutableArray array];
     
     [arrayTemp addObject:[[DSCreature alloc] init]];

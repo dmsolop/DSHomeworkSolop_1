@@ -1,15 +1,15 @@
 //
-//  DSManagerOfProperty.m
+//  DSManagerProperty.m
 //  DSHomeworkSolop#1
 //
 //  Created by Дмитрий Солоп on 16.02.17.
 //  Copyright © 2017 Dimon Solop. All rights reserved.
 //
 
-#import "DSManagerOfProperty.h"
+#import "DSManagerProperty.h"
 
 
-@implementation DSManagerOfProperty
+@implementation DSManagerProperty
 
 @dynamic firstName;
 @dynamic lastName;

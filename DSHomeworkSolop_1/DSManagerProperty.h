@@ -1,5 +1,5 @@
 //
-//  DSManagerOfProperty.h
+//  DSManagerProperty.h
 //  DSHomeworkSolop#1
 //
 //  Created by Дмитрий Солоп on 16.02.17.
@@ -8,7 +8,7 @@
 
 #import <Foundation/Foundation.h>
 
-@interface DSManagerOfProperty : NSObject
+@interface DSManagerProperty : NSObject
 
 @property (nonatomic, copy) NSArray *arrayBaseOfFirstName;
 @property (nonatomic, copy) NSArray *arrayBaseOfLastName;
